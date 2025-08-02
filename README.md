@@ -1,7 +1,7 @@
 ![logo](https://github.com/kirtikiranjena/kirtikiranjena/raw/main/Kirti%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Kirti Kiran Jena</h1>
-<h3 align="center">Pursuing a Career in DevOps Engineering with Expertise in Cloud Infrastructure, Automation, and Backend Technologies (Python & MySQL)</h3>
+<h3 align="center">Aspiring DevOps Engineer Specializing in AWS, Docker, Kubernetes, and CI/CD Automation</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kirtikiranjena&label=Profile%20views&color=0e75b6&style=flat" alt="kirtikiranjena" /> 
